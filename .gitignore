@@ -1,2 +1,5 @@
-# Download Folders
+# Folders to ignore
 Downloaded/
+__pycache__/
+
+# Files to ignore
