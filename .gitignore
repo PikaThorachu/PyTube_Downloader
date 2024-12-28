@@ -3,3 +3,5 @@ Downloaded/
 __pycache__/
 
 # Files to ignore
+Metadata_Updater.py
+PyTube_Downloader_TEST.py
